@@ -1,0 +1,253 @@
+@media screen {
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: #121314;
+	color: #DFE0E6;
+	font-size: 18px;
+	line-height: 1.4;
+}
+header{
+	text-align: center;
+	width: auto;
+	top: 5px;
+	position: static;
+	margin-bottom: 20px;
+}
+header h1{
+	font-size: 75px;
+}
+#mobiledetect{
+	display: none;
+}
+header h1 a, a:hover{
+text-decoration: none;
+color: #DFE0E6;
+}
+#wrapper{
+  display: flex;
+  align-items: center;
+  min-height: 22em;
+  justify-content: center;
+}
+
+}
+#container {
+flex: 1;
+width: 100%;
+}
+#left{
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#leftcontent{
+	text-align: center;
+	font-size: 18px;
+}
+#msg{
+	text-align: center;
+	font-size: 16px;
+}
+#right{
+	float: right;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#rightcontent{
+	font-size: 18px;
+	text-align: left;
+}
+#postinfo{
+    overflow: auto;
+    margin-left: auto;margin-right: auto;
+    width: 75%;
+    margin-bottom: 20px;
+    position: relative;
+}
+#userimage{
+	float: left;
+	max-width: 95px;
+	max-height: 95px;
+}
+#postinfotext{
+	margin-left: 120px;
+	text-align: left;
+	font-size: 14px;
+	bottom: 0;
+    left: 0;
+    position: absolute;
+}
+#playlistname{
+font-size: 18px;
+width: 100px;
+font-weight: bold;
+text-align: left;
+}
+#noplaylist{
+font-size: 18px;
+color: #353535;
+width: 100px;
+font-weight: bold;
+text-align: left;
+cursor:default;
+}
+#trackcount{
+text-align: left;
+width: auto;
+}
+#choosebox{
+   max-width: 75%;
+   font-size: 12px;
+}
+#playlists{
+text-align: left;
+width: 100%;
+
+}
+#selectbutton{
+	font-size: 10px;
+	cursor: pointer;
+	text-align: left;
+	width: auto;
+}
+#trackcount span:hover{
+	color: #1ed65f;
+}
+#printout span:hover{
+	color: #1ed65f;
+}
+#copied{
+	display: none;
+	margin-left: 10px;
+	font-size: 11px;
+	color: #1ed65f;
+
+}
+#printbutton{
+	font-size: 10px;
+	cursor: pointer;
+	text-align: left;
+	width: auto;
+	margin-left: 20px;	
+}
+#copydisabled{
+	font-size: 10px;
+	color: #353535;
+	text-align: left;
+	width: auto;
+	cursor: not-allowed;
+}
+#printdisabled{
+	font-size: 10px;
+	color: #353535;
+	text-align: left;
+	width: auto;
+	margin-left: 20px;
+	cursor: not-allowed;
+}
+#postlogin{
+	display: none;
+}
+#postlogin p{
+	font-size: 14px;
+}
+#listplaceholder{
+	text-align: center;
+	font-size: 18px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	color: #4f4f4f;
+	margin-top: 120px;
+	font-style: italic;
+	cursor:default;
+}
+#textlist{
+	height: 300px;
+	max-width: 600px;
+	background-color: #222326;
+	color: #83898F;
+	text-align: left;
+	padding: 20px;
+	font-size: 12px;
+	border-radius: 4px;
+	width:auto;
+    left:0;
+    margin-left:-25px;
+    position: relative;
+    overflow: auto;
+}
+.ui-selectmenu-menu .ui-menu {max-height: 200px;}
+#note{
+	font-size: 12px;
+	width: 20px;
+	height: auto;
+	color: #83898F;
+}
+#splogo{
+	text-align: center;
+	color: #6d6d6d;
+	font-size: 10px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;	
+}
+.img-circle {
+   border-radius: 50%; 
+}
+footer{
+	text-align: center;
+	padding-top: 50px;
+	font-size: 12px;
+	clear:both;
+	color: #656565;
+	position:static;
+    bottom:20;
+    width:100%;
+    height:60px;
+}
+.flattr{
+	top:5px;
+	right:5px;
+	position:fixed;
+	z-index:999;
+}
+}
+@media print {
+  #textlist{
+  	font-size: 18px;
+  	color: black;
+  	font-family: 'Arial', sans-serif;
+  	margin-left: 30px;
+  }
+}
+@media screen and (max-width: 600px)
+{
+#wrapper{
+	display:none;
+}
+footer{
+	display: none;
+}
+.flattr{
+	display: none;
+}
+#mobiledetect{
+	width: 100%;
+	height: 100%;
+	padding: 30px;
+	font-size: 24px;
+	background-color: #121314;
+	color: #DFE0E6;
+	display: block;
+	text-align: left;
+}
+.green{
+	font-weight: bold;
+	color: #1ed65f;
+	font-size: 52px;
+}
+}
