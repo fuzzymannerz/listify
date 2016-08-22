@@ -9,3 +9,6 @@ This repo if for those who want to submit contributions or fork and make their o
 
 ## Show your love
 If you get use from, or make something else with Listify then please consider showing some love via [PayPal](https://paypal.me/fuzzymannerz), [Flattr](https://flattr.com/submit/auto?fid=rok0q2&url=https%3A%2F%2Flistify.thefuzz.xyz) or BTC - *1DUJH2kqccDpTHHSCXDkRGhxtvXm9PdnkN*
+
+## TO-DO
+- Small screen device compatibility.
