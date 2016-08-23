@@ -1,3 +1,4 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Yfuzzymannerz&url=https://github.com/fuzzymannerz/listify/&title=Listify&tags=github)
 # Listify #
 Listify is a tool to convert a Spotify playlist into a simple text list of tracks.
 
