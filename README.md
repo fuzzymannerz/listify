@@ -9,7 +9,11 @@ Listify is a tool to convert a Spotify playlist into a simple text list of track
 ## Usage / Demo
 **If you wish to actually just use/see Listify then [click here](https://listify.thefuzz.xyz).**
 
-This repo if for those who want to submit contributions or fork and make their own version.   
+This repo if for those who want to submit contributions or fork and make their own version.  
+
+**Important Note:**    
+**The "/doc" folder is the live website. Pull requests regarding this folder will be ignored.**    
+**If you wish to make your own version, use the "src" folder and make changes.**    
 
 **You will need to make changes on lines 66 & 67 of "js/listify.js".**    
 
