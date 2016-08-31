@@ -10,12 +10,14 @@ Listify is a tool to convert a Spotify playlist into a simple text list of track
 **If you wish to actually just use/see Listify then [click here](https://listify.thefuzz.xyz).**
 
 This repo if for those who want to submit contributions or fork and make their own version.  
+You will need a Spotify application registered to host your own version of Listify.
 
 **Important Note:**    
-**The "/doc" folder is the live website. Pull requests regarding this folder will be ignored.**    
-**If you wish to make your own version, use the "src" folder and make changes.**    
+**The "/docs" folder is the live website. Pull requests regarding this folder will be ignored.**    
+**Please use the "src" folder for changes, issues and pull requests.**    
 
-**You will need to make changes on lines 66 & 67 of "js/listify.js".**    
+**To host your own you will need to make changes on lines 66 & 67 of "js/listify.js".**    
+(See docs/js/listify.js for a real world example.)
 
         var CLIENT_ID = 'YOUR_SPOTIFY_APP_CLIENT_KEY';
         var REDIRECT_URI = 'THE_LOCATION_OF_AUTH.HTML';
