@@ -64,7 +64,7 @@ function dropdownselect() {
 
     function login(callback) {
         var CLIENT_ID = '158e2387ffb542b69d48b22229187dc3';
-        var REDIRECT_URI = 'https://listify.thefuzz.xyz/auth.html';
+        var REDIRECT_URI = 'https://listify.fuzzytek.ml/auth.html';
 
         function getLoginURL(scopes) {
             return 'https://accounts.spotify.com/authorize?client_id=' + CLIENT_ID +
