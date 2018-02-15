@@ -1,13 +1,12 @@
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=fuzzymannerz&url=https://github.com/fuzzymannerz/listify/&title=Listify&tags=github)
 # Listify #
 Listify is a tool to convert a Spotify playlist into a simple text list of tracks.
 
-###Screenshots###
+## Screenshots
 ![Listify initial page](http://i.imgur.com/EJNtAD0.jpg)
 ![Listify screenshot](http://i.imgur.com/rRlw6sf.jpg)
 
 ## Usage / Demo
-**If you wish to actually just use/see Listify then [click here](https://listify.thefuzz.xyz).**
+**If you wish to actually just use/see Listify then [click here](https://listify.fuzzytek.ml).**
 
 This repo if for those who want to submit contributions or fork and make their own version.  
 You will need a Spotify application registered to host your own version of Listify.
@@ -24,7 +23,4 @@ You will need a Spotify application registered to host your own version of Listi
 
 ## Show your love
 If you get use from, or make something else with Listify then please consider showing some love. <3    
-[PayPal](https://paypal.me/fuzzymannerz), [Flattr](https://flattr.com/submit/auto?fid=rok0q2&url=https%3A%2F%2Flistify.thefuzz.xyz) or BTC - *1DUJH2kqccDpTHHSCXDkRGhxtvXm9PdnkN*
-
-## To-do
-- Small screen device compatibility.
+[PayPal](https://paypal.me/fuzzymannerz) or BTC - *1Q1Q4LZK8ghrcX6jxxuPa95bwvu6bVUdsY*
