@@ -6,7 +6,7 @@ Listify is a tool to convert a Spotify playlist into a simple text list of track
 ![Listify screenshot](http://i.imgur.com/rRlw6sf.jpg)
 
 ## Usage / Demo
-**If you wish to actually just use/see Listify then [click here](https://listify.fuzzytek.ml).**
+**If you wish to actually just use/see Listify then [click here](https://listify.ga).**
 
 This repo if for those who want to submit contributions or fork and make their own version.  
 You will need a Spotify application registered to host your own version of Listify.
